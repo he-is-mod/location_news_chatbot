@@ -1,0 +1,3 @@
+
+const OPEN_AI_KEY = "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";
+const NEWS_API_KEY = '499a74c9c6bd49f78bf1321e92c5b822';
